@@ -1,6 +1,8 @@
 # Horiseon Social Solutions Code Refactor Project
 A marketing agency has enlisted help to refactor an existing site to make it more accessible. Accessibility practices ensure that people with disabilities can access a website using assistive technologies such as video captions, screen readers, and braille keyboards.
 
+**Deployment**: https://katsign.github.io/horiseon-code-refactor/
+
 The prompt:
 ## User Story
 
