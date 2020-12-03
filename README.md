@@ -28,6 +28,10 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 # Changes
+
+![horiseon landing page with alt text shown](./Assets/alt-text-ss.PNG)
+*(ABOVE: The alt text will show if the featured images are not loading.)*
+
 Updated the website [title] tag to be more descriptive ("Horiseon | Social Solution Services")
   
 Went through each [img] tag and added alt text for screen reading, made even more specific on second run
